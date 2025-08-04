@@ -1,0 +1,13 @@
+pandas
+modelscope
+openai
+Agently
+transformers
+peft
+tqdm
+torch
+scikit-learn
+datasets
+ipykernel
+jupyter
+modelscope
